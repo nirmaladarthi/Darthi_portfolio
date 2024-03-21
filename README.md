@@ -23,25 +23,25 @@ challenging and collaborative environment.
           <dd>
             <b>EDUCATION QUALIFICATION:</b>
             <dt>
-              COURSE: BE(EEE)
-<b>INSTITUTE:</b> University College Of Engineering, Ariyalur.
-<b>UNIVERSITY:</b> Anna University
-<b>YEAR:</b> 2019
-<b>PERCENTAGE:</b> CGPA-6.74
+              <b>COURSE:</b> BE(EEE)<br>
+<b>INSTITUTE:</b> University College Of Engineering, Ariyalur.<br>
+<b>UNIVERSITY:</b> Anna University<br>
+<b>YEAR:</b> 2019<br>
+<b>PERCENTAGE:</b> CGPA-6.74<br>
             </dt>
           <dt>
-            COURSE: HSC
-<b>INSTITUTE:</b> ST. Joseph’s Girls Higher Secondary School, Thanjavur
-<b>BOARD:</b> State Board
-<b>YEAR:</b> 2015
-<b>PERCENTAGE:</b> 88.92%
+            <b>COURSE:</b> HSC<br>
+<b>INSTITUTE:</b> ST. Joseph’s Girls Higher Secondary School, Thanjavur<br>
+<b>BOARD:</b> State Board<br>
+<b>YEAR:</b> 2015<br>
+<b>PERCENTAGE:</b> 88.92%<br>
           </dt>
           <dt>
-            COURSE: SSLC
-<b>INSTITUTE:</b> ST. Joseph’s Girls Higher Secondary School, Thanjavur
-<b>BOARD:</b> State Board
-<b>YEAR:</b> 2013
-<b>PERCENTAGE:</b> 89.8%
+            <b>COURSE:</b> SSLC<br>
+<b>INSTITUTE:</b> ST. Joseph’s Girls Higher Secondary School, Thanjavur<br>
+<b>BOARD:</b> State Board<br>
+<b>YEAR:</b> 2013<br>
+<b>PERCENTAGE:</b> 89.8%<br>
           </dt>
           </dd>
       <dd>
