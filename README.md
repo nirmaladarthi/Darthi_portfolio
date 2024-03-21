@@ -86,7 +86,7 @@ in, register, and access personalized information related to their basic details
                 <b>PERSONAL TRAITS:</b>
                 </dd>
                   <dt>
-                    <ul type='bullet">
+                    <ul type="bullet">
                       <li>Friendly minded</li>
                       <li>Leadership</li>
                       <li>Adoptability</li>
