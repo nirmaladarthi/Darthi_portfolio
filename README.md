@@ -66,6 +66,45 @@ challenging and collaborative environment.
               </dt>
           </dd>
         </dl>
+                  <p><b>PROJECT:</b></p><br>
+                  <p><b>Title:</b> Student Login Registration System.</p>
+          <div id="project">
+            <dl>
+              <dd>
+                <b>Project Description:</b>
+              </dd>
+                  <dt>
+                    The "Student Login and Registration System" is a web-based application designed to manage
+student authentication and registration processes. This system provides platform for students to log
+in, register, and access personalized information related to their basic details.
+                  </dt>
+            </dl>
+            </div>
+        <div id="personal_details">
+          <dl>
+              <dd>
+                <b>PERSONAL TRAITS:</b>
+                  <dt>
+                    <ul type='bullet">
+                      <li>Friendly minded</li>
+                      <li>Leadership</li>
+                      <li>Adoptability</li>
+                      </ul>
+                  </dt>
+              </dd>
+                      <dd>
+                      <b>LANGUAGES KNOWN :</b>
+                      </dd>
+                      <dt>
+                      ENGLISH
+                      </dt>
+                      <dt>
+                      ENGLISH
+                      </dt>
+          </dl>
       </div>
+                      <p><b>DECLARATION:</b></p>
+                      <p>I hereby declare that all the information furnished above is true and to the best of my
+knowledge.<p>
     </body>
 </html>
