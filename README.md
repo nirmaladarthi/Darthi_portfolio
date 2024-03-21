@@ -84,6 +84,7 @@ in, register, and access personalized information related to their basic details
           <dl>
               <dd>
                 <b>PERSONAL TRAITS:</b>
+                </dd>
                   <dt>
                     <ul type='bullet">
                       <li>Friendly minded</li>
@@ -91,7 +92,6 @@ in, register, and access personalized information related to their basic details
                       <li>Adoptability</li>
                       </ul>
                   </dt>
-              </dd>
                       <dd>
                       <b>LANGUAGES KNOWN :</b>
                       </dd>
