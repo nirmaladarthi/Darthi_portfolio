@@ -44,6 +44,19 @@ YEAR: 2013
 PERCENTAGE: 89.8%
           </dt>
           </dd>
+      <dd>
+        SOFTWARE SKILLS:
+        <dt>
+          <ul type="bullet">
+            <li>Java</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Servlet</li>
+            <li>SQL</li>
+          </ul>
+        </dt>
+      </dd>
         </dl>
       </div>
     </body>
