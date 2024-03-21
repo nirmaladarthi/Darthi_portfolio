@@ -45,7 +45,7 @@ challenging and collaborative environment.
           </dt>
           </dd>
       <dd>
-        <b>SOFTWARE SKILLS:</b>
+        <b>SOFTWARE SKILLS:</b><br>
         <dt>
           <ul type="bullet">
             <li>Java</li>
@@ -57,6 +57,14 @@ challenging and collaborative environment.
           </ul>
         </dt>
       </dd>
+          <dd>
+            <b>ACHIVEMENTS:</b>
+              <dt>
+                <ul type="bullet">
+                  <li>Two times won the gold medal in zone chess tournament.</li>
+                  <li>Got the runner place for paper presentation in symposium at UCEP.</li>
+              </dt>
+          </dd>
         </dl>
       </div>
     </body>
