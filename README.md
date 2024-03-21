@@ -7,7 +7,7 @@
     T.Nagar,Chennai.
   </address>
   <p>7502846077</p>
-  <a href="mailto:nirmaladarthi8@gmail.com">Mail:</a>
+  <a href="mailto:nirmaladarthi8@gmail.com">Mail</a>
     <body>
       <div id="basic">
         <dl>
