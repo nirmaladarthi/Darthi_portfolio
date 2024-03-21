@@ -96,15 +96,15 @@ in, register, and access personalized information related to their basic details
                       <b>LANGUAGES KNOWN :</b>
                       </dd>
                       <dt>
-                      ENGLISH
-                      </dt>
-                      <dt>
-                      ENGLISH
+                        <ul type="bullet">
+                      <li>ENGLISH</li>
+                      <li>TAMIL</li>
                       </dt>
           </dl>
       </div>
-                      <p><b>DECLARATION:</b></p>
-                      <p>I hereby declare that all the information furnished above is true and to the best of my
-knowledge.<p>
+                          <div id="declaration">
+                      <dd><b>DECLARATION:</b></dd>
+                      <dt>I hereby declare that all the information furnished above is true and to the best of my
+knowledge.</dt>
     </body>
 </html>
