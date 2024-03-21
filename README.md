@@ -17,7 +17,7 @@
                 Recent Java full stack development course graduate with hands-on project experience.
 Seeking entry-level Java Developer position to apply programming skills in developing robust
 software solutions. Excited about contributing to a dynamic team and eager to grow in a
-challenging and collaborative environment.
+challenging and collaborative environment.<br><br>
               </dt>
           </dd>
           <dd>
