@@ -45,7 +45,7 @@ challenging and collaborative environment.
           </dt>
           </dd>
       <dd>
-        <b>SOFTWARE SKILLS:</b><br>
+        <b>SOFTWARE SKILLS:</b>
         <dt>
           <ul type="bullet">
             <li>Java</li>
