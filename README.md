@@ -41,11 +41,11 @@ challenging and collaborative environment.
 <b>INSTITUTE:</b> ST. Joseph’s Girls Higher Secondary School, Thanjavur<br>
 <b>BOARD:</b> State Board<br>
 <b>YEAR:</b> 2013<br>
-<b>PERCENTAGE:</b> 89.8%<br>
+<b>PERCENTAGE:</b> 89.8%<br><br>
           </dt>
           </dd>
       <dd>
-        <b>SOFTWARE SKILLS:</b>
+        <b>SOFTWARE SKILLS:</b><br>
         <dt>
           <ul type="bullet">
             <li>Java</li>
