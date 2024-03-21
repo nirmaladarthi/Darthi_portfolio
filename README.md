@@ -12,7 +12,7 @@
       <div id="basic">
         <dl>
           <dd>
-            CAREER OBJECTIVE:
+            <b>CAREER OBJECTIVE:</b>
               <dt>
                 Recent Java full stack development course graduate with hands-on project experience.
 Seeking entry-level Java Developer position to apply programming skills in developing robust
@@ -21,31 +21,31 @@ challenging and collaborative environment.
               </dt>
           </dd>
           <dd>
-            EDUCATION QUALIFICATION:
+            <b>EDUCATION QUALIFICATION:</b>
             <dt>
               COURSE: BE(EEE)
-INSTITUTE: University College Of Engineering, Ariyalur.
-UNIVERSITY: Anna University
-YEAR: 2019
-PERCENTAGE: CGPA-6.74
+<b>INSTITUTE:</b> University College Of Engineering, Ariyalur.
+<b>UNIVERSITY:</b> Anna University
+<b>YEAR:</b> 2019
+<b>PERCENTAGE:</b> CGPA-6.74
             </dt>
           <dt>
             COURSE: HSC
-INSTITUTE: ST. Joseph’s Girls Higher Secondary School, Thanjavur
-BOARD: State Board
-YEAR: 2015
-PERCENTAGE: 88.92%
+<b>INSTITUTE:</b> ST. Joseph’s Girls Higher Secondary School, Thanjavur
+<b>BOARD:</b> State Board
+<b>YEAR:</b> 2015
+<b>PERCENTAGE:</b> 88.92%
           </dt>
           <dt>
             COURSE: SSLC
-INSTITUTE: ST. Joseph’s Girls Higher Secondary School, Thanjavur
-BOARD: State Board
-YEAR: 2013
-PERCENTAGE: 89.8%
+<b>INSTITUTE:</b> ST. Joseph’s Girls Higher Secondary School, Thanjavur
+<b>BOARD:</b> State Board
+<b>YEAR:</b> 2013
+<b>PERCENTAGE:</b> 89.8%
           </dt>
           </dd>
       <dd>
-        SOFTWARE SKILLS:
+        <b>SOFTWARE SKILLS:</b>
         <dt>
           <ul type="bullet">
             <li>Java</li>
