@@ -1,12 +1,6 @@
 # Darthi_portfolio
 <html>
-  <style>
-  h1{
-    border="15px"
-    background_color="blue"
-  }
-</style>
-  <h1>
+  <h1 style="border:10px;color:blue">
     NIRMALA DARTHI
   </h1>
   <address>
