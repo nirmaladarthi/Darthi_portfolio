@@ -2,7 +2,8 @@
 <html>
   <style>
   h1{
-    border="10px"
+    border="15px"
+    background_color="blue"
   }
 </style>
   <h1>
