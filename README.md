@@ -1,4 +1,9 @@
 # Darthi_portfolio
+<style type="text/css">
+  h1{
+    border="10px";
+  }
+</style>
 <html>
   <h1>
     NIRMALA DARTHI
