@@ -1,10 +1,10 @@
 # Darthi_portfolio
-<style>
+<html>
+  <style>
   h1{
     border="10px"
   }
 </style>
-<html>
   <h1>
     NIRMALA DARTHI
   </h1>
