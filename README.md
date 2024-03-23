@@ -1,7 +1,7 @@
 # Darthi_portfolio
-<style type="text/css">
+<style>
   h1{
-    border="10px";
+    border="10px"
   }
 </style>
 <html>
