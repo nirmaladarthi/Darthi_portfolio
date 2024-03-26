@@ -1,8 +1,10 @@
 # Darthi_portfolio
 <html>
-  <h1 style="color:blue;">
+  <head>
+  <h1>
     NIRMALA DARTHI
   </h1>
+    </head>
   <address>
     T.Nagar,Chennai.
   </address>
