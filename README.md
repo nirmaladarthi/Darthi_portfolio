@@ -1,6 +1,10 @@
 # Darthi_portfolio
 <html>
   <head>
+    <style type="text/css">
+      h1{
+        color:green;
+        }
   <h1>
     NIRMALA DARTHI
   </h1>
